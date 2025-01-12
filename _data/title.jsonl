@@ -1,0 +1,323 @@
+{"id": "20230119_reports/ddim.md", "title": "Denoising Diffusion Implicit Models"}
+{"id": "20211021_reports/arxiv_2005.10510.md", "title": "Few-shot Compositional Font Generation with Dual Memory"}
+{"id": "20211118_reports/unsup-parts_2111.06349.md", "title": "Unsupervised Part Discovery from Contrastive Reconstruction"}
+{"id": "20240516_reports/tensornetwork_for_ml_1906.06329.md", "title": "TensorNetwork for Machine Learning"}
+{"id": "20230817_reports/fastvit.md", "title": "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization"}
+{"id": "20210715_reports/VCparallel/VCparallel.md", "title": "Phonetic posteriorgrams for many-to-one voice conversion without parallel data training"}
+{"id": "20181213_reports/shufflenasnets.md", "title": "ShuffleNASNets: Efficient CNN models through modified Efficient Neural Architecture Search"}
+{"id": "20210617_reports/yolos_2106.00666.md", "title": "You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection"}
+{"id": "20181018_reports/megdet_1711.07240.md", "title": "MegDet: A Large Mini-Batch Object Detector"}
+{"id": "20191121_reports/Improving Human Annotation in Single Object Tracking.md", "title": "Improving Human Annotation in Single Object Tracking"}
+{"id": "20220721_reports/pointmlp.md", "title": "Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework"}
+{"id": "20210415_reports/arxiv_2104.02057v2/readme.md", "title": "An Empirical Study of Training Self-Supervised Vision Transformers"}
+{"id": "20210415_reports/mobilestylegan.md", "title": "MobileStyleGAN: A Lightweight Convolutional Neural Network forHigh-Fidelity Image Synthesis"}
+{"id": "20180712_reports/BOUNDARY-SEEKING_GENERATIVE_ADVERSARIAL_NETWORKS.md", "title": "BOUNDARY-SEEKING GENERATIVE ADVERSARIAL NETWORKS"}
+{"id": "20230615_reports/LATM_2305.17126.md", "title": "Large Language Models as Tool Makers"}
+{"id": "20200319_reports/equalization_loss.md", "title": "Equalization Loss for Long-Tailed Object Recognition"}
+{"id": "20210415_reports/i_map_2103.12352.md", "title": "iMAP: Implicit Mapping and Positioning in Real-Time"}
+{"id": "20190117_reports/struct2depth_1811.06152.md", "title": "Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos,"}
+{"id": "20200820_reports/resolution_swithcable_network.md", "title": "Resolution Switchable Networks for Runtime Efficient Image Recognition"}
+{"id": "20190516_reports/centernet.md", "title": "CenterNet: Keypoint Triplets for Object Detection"}
+{"id": "20180823_reports/Learning_and_Querying_Fast_Generative_Models_for_Reinforcement_Learnin.md", "title": "Learning and Querying Fast Generative Models for Reinforcement Learnin"}
+{"id": "20211021_reports/Application_to_physics_by_jyoshida.md", "title": "New directions in hypernuclear physics"}
+{"id": "20190822_reports/arxiv_1905.11286/readme.md", "title": "Stochastic Gradient Methods with Layer-wise Adaptive Moments for Training of Deep Networks"}
+{"id": "20200521_reports/alae/alae.md", "title": "Adversarial Latent Autoencoders"}
+{"id": "20181018_reports/Empirical Methodology for Crowdsourcing Ground Truth_yuji38kwmt.md", "title": "Empirical Methodology for Crowdsourcing Ground Truth"}
+{"id": "20211021_reports/DeepI2P.md", "title": "DeepI2P: Image-to-Point Cloud Registration via Deep Classification"}
+{"id": "20201217_reports/deformable_detr.md", "title": "Deformable DETR: Deformable Transformers for End-to-End Object Detection"}
+{"id": "20240215_reports/GAIA-1.md", "title": "GAIA-1: A Generative World Model for Autonomous Driving"}
+{"id": "20220818_reports/PromptToPrompt_2208.01626.md", "title": "Prompt-to-Prompt Image Editing with Cross Attention Control"}
+{"id": "20200716_reports/linear_transformer_2006.16236.md", "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention"}
+{"id": "20190718_reports/2018_Gupta-Koren-Singer_Shmpoo.md", "title": "Shampoo: Preconditioned Stochastic Tensor Optimization"}
+{"id": "20210218_reports/arxiv2012.02640/readme.md", "title": "A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering."}
+{"id": "20190418_reports/depth_from_videos_in_the_wild_1904.04998.md", "title": "Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras"}
+{"id": "20201119_reports/arxiv_2005.09007v2/readme.md", "title": "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection"}
+{"id": "20240118_reports/yolox.md", "title": "YOLOX: Exceeding YOLO Series in 2021"}
+{"id": "20191219_reports/pytorch_vs_tf.md", "title": "PyTorch vs. TensorFlow"}
+{"id": "20240822_reports/Splatfacto-W.md", "title": "Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections."}
+{"id": "20190718_reports/deformableconv.md", "title": "Deformable Convolutional Networks"}
+{"id": "20201119_reports/AutoKnow_2006_13473.md", "title": "AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types"}
+{"id": "20180913_reports/sakurai_ModelsTransferBetter.md", "title": "Do Better ImageNet Models Transfer Better ?"}
+{"id": "20220317_reports/DeepAA.md", "title": "ASCII Art Synthesis with Convolutional Networks"}
+{"id": "20180712_reports/wespe_1709.01118.md", "title": "WESPE: Weakly Supervised Photo Enhancer for Digital Cameras"}
+{"id": "20230420_reports/ALO_2304.04498.md", "title": "Towards Digital Nature: Bridging the Gap between Turing Machine Objects and Linguistic Objects in LLMMs for Universal Interaction of Object-Oriented Descriptions"}
+{"id": "20220421_reports/simplify_sketch.md", "title": "Learning to Simplify Fully Convolutional Networks for Rough Sketch Cleanup"}
+{"id": "20221117_reports/puring_channel.md", "title": "Pruning Very Deep Neural Network Channels for Efficient Inference"}
+{"id": "20240718_reports/GraphRAG_2404.16130.md", "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization"}
+{"id": "20200416_reports/bsc_conv.md", "title": "Rethinking Depthwise Separable Convolutions: How Intra-Kernel Correlations Lead to Improved MobileNets"}
+{"id": "20230921_reports/GoT_2308.09687.md", "title": "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"}
+{"id": "20180614_reports/sagan_1805.08318.md", "title": "Self-Attention Generative Adversarial Networks"}
+{"id": "20180614_reports/ABCD_antimon2.md", "title": "Input and Weight Space Smoothing for Semi-supervised Learning"}
+{"id": "20240620_reports/vista.md", "title": "VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval"}
+{"id": "20200618_reports/arxiv_2006.07733v1/readme.md", "title": "Bootstrap Your Own Latent A New Approach to Self-Supervised Learning"}
+{"id": "20190516_reports/occupancy_network_1812.03828.md", "title": "Occupancy Networks: Learning 3D Reconstruction in Function Space"}
+{"id": "20220317_reports/dino.md", "title": "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection"}
+{"id": "20211216_reports/qtcp.md", "title": "QTCP: Adaptive Congestion Control with Reinforcement Learning"}
+{"id": "20200416_reports/arxiv_1903.03129v2/readme.md", "title": "SLIDE : IN DEFENSE OF SMART ALGORITHMS OVER HARDWARE ACCELERATION FOR LARGE-SCALE DEEP LEARNING SYSTEMS"}
+{"id": "20241219_reports/MAV_2412.12119.md", "title": "Mastering Board Games by External and Internal Planning with Language Models"}
+{"id": "20200716_reports/pointnet.md", "title": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation"}
+{"id": "20200716_reports/arxiv_2005.04966v2/readme.md", "title": "Prototypical Contrastive Learning of Unsupervised Representations"}
+{"id": "20240516_reports/Projecting_Your_View_Attentively.md", "title": "Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation"}
+{"id": "20210520_reports/arxiv2013.05434/readme.md", "title": "When is it permissible for artifical intelligence to lie?: A trust-based approach"}
+{"id": "20180412_reports/WeakAnnotation.md", "title": "Employing Weak Annotations for Medical Image Analysis Problems"}
+{"id": "20200416_reports/invisible_marker.md", "title": "Invisible Marker:Automatic Annotation for Object Manipulation"}
+{"id": "20180412_reports/ghost_batch_normalization.md", "title": "Train longer, generalize better: closing the generalization gap in large batch training of neural networks"}
+{"id": "20190117_reports/arxiv_1805.1604v3/readme.md", "title": "How Does Batch Normalization Help Optimization?"}
+{"id": "20191121_reports/few-shot_vid2vid_1910.12713.md", "title": "Few-shot Video-to-Video Synthesis"}
+{"id": "20230615_reports/ResNet.md", "title": "Deep Residual Learning for Image Recognition"}
+{"id": "20230216_reports/simple_diffusion.md", "title": "simple diffusion: End-to-end diffusion for high resolution images"}
+{"id": "20221117_reports/OneFormer_2211.06220.md", "title": "OneFormer: One Transformer to Rule Universal Image Segmentation"}
+{"id": "20241017_reports/AutoGen.md", "title": "AutoGen"}
+{"id": "20240718_reports/arxiv2406.02965.md", "title": "Understanding the Impact of Negative Prompts: When and How Do They Take Effect?"}
+{"id": "20180412_reports/Swish_antimon2.md", "title": "Searching For Activation Functions"}
+{"id": "20190516_reports/BERT_Rediscovers_the_Classical_NLP_Pipeline_nharu1san.md", "title": "BERT Rediscovers the Classical NLP Pipeline"}
+{"id": "20211118_reports/arxiv_2106.04803v2/readme.md", "title": "CoAtNet: Marrying Convolution and Attention for All Data Sizes"}
+{"id": "20210916_reports/kmd.md", "title": "Deep Portfolio Optimization via Distributional Prediction of Residual Factors"}
+{"id": "20240620_reports/yolov10.md", "title": "YOLOv10: Real-Time End-to-End Object Detection"}
+{"id": "20181115_reports/UniversalSpikeClassifier.md", "title": "Universal Spike Classifier"}
+{"id": "20180913_reports/graph_network_1806.01261.md", "title": "Relational inductive biases, deep learning, and graph networks"}
+{"id": "20241219_reports/efficientad.md", "title": "EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies"}
+{"id": "20240620_reports/MCTSr_2405.07394.md", "title": "Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B"}
+{"id": "20180823_reports/TFX.md", "title": "TFX: A TensorFlow-Based Production-Scale Machine Learning Platform"}
+{"id": "20190117_reports/AdaptiveTransferLearning.md", "title": "Distilling the Knowledge in a Neural Network"}
+{"id": "20180712_reports/surfaceInspection2_Sakurai.md", "title": "Transfer Learning for Automated Optical Inspection"}
+{"id": "20200521_reports/yolov4.md", "title": "YOLOv4: Optimal Speed and Accuracy of Object Detection"}
+{"id": "20240919_reports/show_o.md", "title": "Show-o: One Single Transformer to Unify Multimodal Understanding and Generation"}
+{"id": "20230817_reports/attention_is_all_you_need.md", "title": "Attention Is All You Need"}
+{"id": "20211216_reports/universal_law_2105.12806v3.md", "title": "A Universal Law of Robustness via Isoperimetry"}
+{"id": "20221117_reports/internimage.md", "title": "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions"}
+{"id": "20181018_reports/20181019_takagi_33_DSH-F.md", "title": "潜在キャラクタモデルによる聞き手のふるまいに 基づく対話エンゲージメントの推定"}
+{"id": "20180712_reports/SOORL_antimon2.md", "title": "Strategic Object Oriented Reinforcement Learning"}
+{"id": "20201015_reports/arxiv_1905.02693v4/readme.md", "title": "3D Packing for Self-Supervised Monocular Depth Estimation"}
+{"id": "20190418_reports/LUMENAI.md", "title": "Time series aggregation"}
+{"id": "20181115_reports/The ParallelEye Dataset.md", "title": "The ParallelEye Dataset: Constructing Large-Scale Artificial Scenes for Traffic Vision Research"}
+{"id": "20200521_reports/arxiv_2001.06782v2/readme.md", "title": "Gradient Surgery for Multi-Task Learning"}
+{"id": "20181115_reports/arxiv_1806.05393v2/readme.md", "title": "Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks"}
+{"id": "20180614_reports/defectInspection_Sakurai.md", "title": "Intelligent defect classification system based on deep learning"}
+{"id": "20201015_reports/LaneGCN_2007_13732.md", "title": "Learning Lane Graph Representations for Motion Forecasting"}
+{"id": "20191121_reports/tridentnet.md", "title": "Scale-Aware Trident Networks for Object Detection"}
+{"id": "20180712_reports/arxiv_1803.09693/readme.md", "title": "Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++"}
+{"id": "20190718_reports/google research football.md", "title": "Google Research Football: A Novel Reinforcement Learning Environment"}
+{"id": "20211021_reports/rethinking_positional_encoding_2107.02561.md", "title": "Rethinking Positional Encoding"}
+{"id": "20231221_reports/ReST_EM_2312.06585.md", "title": "Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models"}
+{"id": "20190718_reports/DL_FW_Comparison_antimon2.md", "title": "Deep Learning: Exploring High Level APIs of Knet.jl and Flux.jl in comparison to Tensorflow-Keras"}
+{"id": "20191219_reports/A STUDY OF ANNOTATION AND ALIGNMENT ACCURACY FOR.md", "title": "Challenges in Search on Streaming Services: Netflix Case Study"}
+{"id": "20200618_reports/generalized_focal_loss.md", "title": "Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection"}
+{"id": "20240418_reports/scatterformer.md", "title": "ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention"}
+{"id": "20211021_reports/resnet_strikes_back.md", "title": "ResNet strikes back: An improved training procedure in timm"}
+{"id": "20220120_reports/grokking_2201.02177.md", "title": "Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets"}
+{"id": "20181213_reports/PartialConvolutionBasedPadding_antimon2.md", "title": "Partial Convolution based Padding"}
+{"id": "20210715_reports/Annotation Tool and Urban Dataset for 3D Point Cloud Semantic Segmentation.md", "title": "Annotation Tool and Urban Dataset for 3D Point Cloud Semantic Segmentation"}
+{"id": "20180913_reports/Imagination-Augmented Agents for Deep Reinforcement Learning.md", "title": "Imagination-Augmented Agents for Deep Reinforcement Learning"}
+{"id": "20190919_reports/fermi_net_1909.02487.md", "title": "Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks"}
+{"id": "20211021_reports/yolov3_masahiro/yolov3.md", "title": "YOLOv3: An Incremental Improvement"}
+{"id": "20210617_reports/HOTA/readme.md", "title": "HOTA: A Higher Order Metric for Evaluating Multi-object Tracking"}
+{"id": "20200220_reports/self_distillation_2002.05715.md", "title": "Self-Distillation Amplifies Regularization in Hilbert Space"}
+{"id": "20190117_reports/GaussianProcesses_jl_antimon2.md", "title": "GaussianProcesses.jl: A Nonparametric Bayes package for the Julia Language"}
+{"id": "20190418_reports/arxiv_1904.01326/readme.md", "title": "HoloGAN: Unsupervised learning of 3D representations from natural images"}
+{"id": "20210819_reports/compositional_sketch_search.md", "title": "Compositional Sketch Search"}
+{"id": "20180517_reports/fssd_1712.00960.md", "title": "FSSD: Feature Fusion Single Shot Multibox Detector"}
+{"id": "20180614_reports/Algorithms for Inverse Reinforcement Learning.md", "title": "Algorithms for Inverse Reinforcement Learning"}
+{"id": "20231116_reports/dino.md", "title": "Emerging Properties in Self-Supervised Vision Transformers"}
+{"id": "20190620_reports/FTW_agent.md", "title": "Human-level performance in 3D multiplayer games with populationbased reinforcement learning"}
+{"id": "20180614_reports/Recall Traces- Backtracking Models for Efficient Reinforcement Learning.md", "title": "Recall Traces: Backtracking Models for Efficient Reinforcement Learning"}
+{"id": "20240516_reports/idefics2_2405.02246.md", "title": "What matters when building vision-language models?"}
+{"id": "20190516_reports/Exploring the Limitations of Behavior Cloning for Autonomous Driving_yuji38kwmt.md", "title": "Exploring the Limitations of Behavior Cloning for Autonomous Driving"}
+{"id": "20180517_reports/SemanticAdversarialExamples_antimon2.md", "title": "Semantic Adversarial Examples"}
+{"id": "20220421_reports/pandaset.md", "title": "Advanced Sensor Suite Dataset for Autonomous Driving"}
+{"id": "20231019_reports/Llemma_2310.10631.md", "title": "Llemma: An Open Language Model For Mathematics"}
+{"id": "20190117_reports/Ego-Lane Analysis.md", "title": "Ego-Lane Analysis System (ELAS): Dataset and Algorithms"}
+{"id": "20220915_reports/fp8.md", "title": "FP8 Formats for Deep Learning"}
+{"id": "20200917_reports/arxiv_2006.14536v1/readme.md", "title": "Smooth Adversarial Training"}
+{"id": "20190620_reports/parameter_function_map_is_biased_1805.08522.md", "title": "Deep learning generalizes because the parameter-function map is biased towards simple functions"}
+{"id": "20210121_reports/TrackFormer_2101.02702.md", "title": "TrackFormer: Multi-Object Tracking with Transformers"}
+{"id": "20190718_reports/arxiv_1810.12890/readme.md", "title": "DropBlock: A regularization method for convolutional networks"}
+{"id": "20201217_reports/ODEGAN_2010_15040.md", "title": "Training Generative Adversarial Networks by Solving Ordinary Differential Equations"}
+{"id": "20180412_reports/matsui_Courty17a.md", "title": "Joint distribution optimal transportation for domain adaptation"}
+{"id": "20190117_reports/channelnets.md", "title": "DetNet: A Backbone network for Object Detection"}
+{"id": "20180913_reports/OneBillionWordBenchmark.md", "title": "One Billion Word Benchmark for Measuring Progress in Statistical Language Modeling"}
+{"id": "20240919_reports/4d-gs.md", "title": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering"}
+{"id": "20180913_reports/arxiv_1702.08591/readme.md", "title": "The Shattered Gradients Problem: If resnets are the answer, then what is the question?"}
+{"id": "20190620_reports/mixmatch.md", "title": "MixMatch: A Holistic Approach to Semi-Supervised Learning"}
+{"id": "20190718_reports/adain_1703.06868.md", "title": "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"}
+{"id": "20230518_reports/APL.md", "title": "LEARNING ACTIVATION FUNCTIONS TO IMPROVE DEEP NEURAL NETWORKS"}
+{"id": "20220721_reports/TimeSformer_2102.05095.md", "title": "Is Space-Time Attention All You Need for Video Understanding?"}
+{"id": "20240118_reports/GPQA_202311.12022.md", "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark"}
+{"id": "20190822_reports/selflow_1904.09117.md", "title": "SelFlow: Self-Supervised Learning of Optical Flow"}
+{"id": "20200116_reports/NNgen.md", "title": "NNgen"}
+{"id": "20241121_reports/hart.md", "title": "HART: Efficient Visual Generation with Hybrid Autoregressive Transformer"}
+{"id": "20230720_reports/zero_deep_2-1.md", "title": "ゼロから作る Deep Learning 2 - 自然言語処理編- を読んだ (1)"}
+{"id": "20180712_reports/Simple random search provides a competitive approachto reinforcement learning.md", "title": "Simple random search provides a competitive approachto reinforcement learning"}
+{"id": "20220120_reports/vit_for_small_datasets.md", "title": "Vision Transformer for Small-Size Datasets"}
+{"id": "20190214_reports/lrunet.md", "title": "Convolutional Neural Networks with Layer Reuse"}
+{"id": "20200917_reports/rectified_features_2008_09497.md", "title": "Single-Image Depth Prediction Makes Feature Matching Easier"}
+{"id": "20230720_reports/retnet.md", "title": "Retentive Network: A Successor to Transformer for Large Language Models"}
+{"id": "20200220_reports/Block Annotation Better Image Annotation for Semantic Segmentation with Sub-Image Decomposition.md", "title": "Block Annotation: Better Image Annotation for Semantic Segmentation with Sub-Image Decomposition"}
+{"id": "20181018_reports/born_again_neural_networks.md", "title": "Born Again Neural Networks"}
+{"id": "20181115_reports/JuliaTPU_antimon2.md", "title": "Automatic Full Compilation of Julia Programs and ML Models to Cloud TPUs"}
+{"id": "20210715_reports/maskformer.md", "title": "Per-Pixel Classification is Not All You Need for Semantic Segmentation"}
+{"id": "20180712_reports/DeepUnorderedCompositionRivalsSyntacticMethodsforTextClassification.md", "title": "Deep Unordered Composition Rivals Syntactic Methods for Text Classification"}
+{"id": "20180517_reports/continous_deep_q-learning_with_model-based_acceleration.md", "title": "Continuous Deep Q-Learning with Model-based Acceleration"}
+{"id": "20241017_reports/patchcore.md", "title": "Towards Total Recall in Industrial Anomaly Detection"}
+{"id": "20200820_reports/nerf_w_2008.02268.md", "title": "NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections"}
+{"id": "20230216_reports/rhee_et_al_2022.md", "title": "Countering Popularity Bias by Regularizing Score Differences"}
+{"id": "20180913_reports/A Diverse Driving Video Database with Scalable Annotation Tooling_yuji38kwmt.md", "title": "BDD100K: A Diverse Driving Video Database with Scalable Annotation Tooling"}
+{"id": "20211118_reports/mased_auto_encoder.md", "title": "Masked Autoencoders Are Scalable Vision Learners"}
+{"id": "20190418_reports/Towards End-to-End Lane Detection_an Instance Segmentation Approach_yuji38kwmt.md", "title": "Towards End-to-End Lane Detection: an Instance Segmentation Approach"}
+{"id": "20180412_reports/Dynamic+Routing+Between+Capsules.md", "title": "Dynamic Routing Between Capsules"}
+{"id": "20200319_reports/dream.md", "title": "Introducing Dreamer: Scalable Reinforcement Learning Using World Models"}
+{"id": "20190516_reports/Raviteja2019.md", "title": "A Compact Embedding for Facial Expression Similarity"}
+{"id": "20220519_reports/LossLandscape.md", "title": "Visualizing the Loss Landscape of Neural Nets"}
+{"id": "20240418_reports/yolov9.md", "title": "YOLO9: Learning What You Want to Learn Using Programmable Gradient Information"}
+{"id": "20190620_reports/arxiv_1904.12848/readme.md", "title": "Unsupervised Data Augmentation"}
+{"id": "20200716_reports/distilling_effective_supervision.md", "title": "Distilling Effective Supervision from Severe Label Noise"}
+{"id": "20210617_reports/arxiv_2104.14548v1/readme.md", "title": "With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations"}
+{"id": "20210617_reports/arxiv_2104.00887.md", "title": "Multiple Heads are Better than One: Few-shot Font Generation with Multiple Localized Experts"}
+{"id": "20180412_reports/SequentialMatchingNetwork_nharu1san.md", "title": "Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots"}
+{"id": "20220616_reports/san_2203.01601.md", "title": "Syntax-Aware Network for Handwritten Mathematical Expression Recognition"}
+{"id": "20180712_reports/Relational_Deep_Reinforcement_Learning.md", "title": "Relational Deep Reinforcement Learning"}
+{"id": "20230720_reports/Reflexion_2303.11366.md", "title": "Reflexion: Language Agents with Verbal Reinforcement Learning"}
+{"id": "20240321_reports/ethics_of_llms_in_legal_2403.11152.md", "title": "Evaluation Ethics of LLMs in Legal Domain"}
+{"id": "20190418_reports/fcos.md", "title": "FCOS: Fully Convolutional One-Stage Object Detection"}
+{"id": "20190919_reports/Gen_antimon2.md", "title": "Gen: A General-Purpose Probabilistic Programming System with Programmable Inference"}
+{"id": "20220217_reports/vilt-2021-02.md", "title": "弊社 tech blogで書いた記事を使ってます"}
+{"id": "20190919_reports/Unifying machine learning and quantum chemistry.md", "title": "Unifying machine learning and quantum chemistry – a deep neural network for molecular wavefunctions"}
+{"id": "20180412_reports/binaryconnect.md", "title": "BinaryConnect: Training Deep Neural Networks with binary weights during propagations"}
+{"id": "20181018_reports/WiG_antimon2.md", "title": "Weighted Sigmoid Gate Unit for an Activation Function of Deep Neural Network"}
+{"id": "20200116_reports/arxiv_1807.11546/readme.md", "title": "Textual Explanations for Self-Driving Vehicles"}
+{"id": "20181213_reports/InstanceDeepTransferLearning.md", "title": "A Survey of Deep Transfer Learning"}
+{"id": "20200618_reports/detr_2005.12872.md", "title": "End-to-End Object Detection with Transformers"}
+{"id": "20200820_reports/arxiv_2003.10432v2/readme.md", "title": "Atlas: End-to-End 3D Scene Reconstruction from Posed Images"}
+{"id": "20200220_reports/F20191205_goto/readme.md", "title": "mprg カメラ間の整合性を考慮した全周囲画像のセグメンテーション"}
+{"id": "20190214_reports/arxiv_1812.04948/readme.md", "title": "A Style-Based Generator Architecture for Generative Adversarial Networks"}
+{"id": "20211216_reports/zi2zi.md", "title": "zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks"}
+{"id": "20200716_reports/maskprop/maskprop.md", "title": "Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation"}
+{"id": "20180823_reports/Glow_antimon2.md", "title": "Glow: Generative Flow with Invertible 1×1 Convolutions"}
+{"id": "20210318_reports/TransReID_2102.04378.md", "title": "TransReID: Transformer-based Object Re-Identification"}
+{"id": "20240620_reports/tensorizing_nn_1509.06569.md", "title": "Tensorizing Neural Networks"}
+{"id": "20190516_reports/arxiv_1901.09321/readme.md", "title": "Fixup Initialization: Residual Learning Without Normalization"}
+{"id": "20200319_reports/arxiv_2003.00766/readme.md", "title": "Unsupervised Learning of Depth, Optical Flow and Pose with Occlusion from 3D Geometry"}
+{"id": "20180412_reports/GLM_RLMS.md", "title": "Using Grouped Linear Prediction and Accelerated Reinforcement Learning for Online Content Caching"}
+{"id": "20200116_reports/muzero_1911.08265.md", "title": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model"}
+{"id": "20221020_reports/DiNA_2209.15001.md", "title": "Dilated Neighborhood Attention Transformer"}
+{"id": "20210916_reports/FastNeRF_2103.10380.md", "title": "FastNeRF: High-Fidelity Neural Rendering at 200FPS"}
+{"id": "20231019_reports/GAIA-1.md", "title": "GAIA-1: A Generative World Model for Autonomous Driving"}
+{"id": "20181213_reports/AnoGAN_devjap.md", "title": "Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery"}
+{"id": "20240822_reports/mar.md", "title": "Autoregressive Image Generation without Vector Quantization"}
+{"id": "20190314_reports/DiffEqFlux_jl_antimon2.md", "title": "DiffEqFlux.jl — A Julia Library for Neural Differential Equations"}
+{"id": "20240620_reports/multi_token_prediction.md", "title": "Grandmaster-Level Chess Without Search"}
+{"id": "20200416_reports/3d_mpa_2003.13867.md", "title": "3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation"}
+{"id": "20240718_reports/3GSMCMC.md", "title": "3D Gaussian Splatting as"}
+{"id": "20210819_reports/perceiverIO_2107.14795.md", "title": "Perceiver IO: A General Architecture for Structured Inputs & Outputs"}
+{"id": "20210617_reports/contrasive_2011.00362v3.md", "title": "A SURVEY ON CONTRASTIVE SELF-SUPERVISED LEARNING"}
+{"id": "20190418_reports/bau2019.md", "title": "GAN Dissection: Visualizing and Understanding Generative Adversarial Networks"}
+{"id": "20220519_reports/RepSurf.md", "title": "Surface Representation for Point Clouds"}
+{"id": "20220616_reports/pointnext.md", "title": "PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies"}
+{"id": "20190314_reports/swrn.md", "title": "Learning Implicitly Recurrent CNNs Through Parameter Sharing"}
+{"id": "20200416_reports/vq_vae_2/20200412.md", "title": "Generating Diverse High-Fidelity Images with VQ-VAE-2"}
+{"id": "20210715_reports/arxiv_2103.13201v3/readme.md", "title": "DRO: Deep Recurrent Optimizer for Structure-from-Motion"}
+{"id": "20201015_reports/meshguided_oneshot_face_reenactment.md", "title": "Mesh Guided One-shot Face Reenactment Using Graph Convolutional Networks"}
+{"id": "20190919_reports/cbnet.md", "title": "CBNet: A Novel Composite Backbone Network Architecture for Object Detection"}
+{"id": "20200319_reports/skip_init_2002.10444.md", "title": "Batch Normalization Biases Deep Residual Networks Towards Shallow Paths"}
+{"id": "20210520_reports/arxiv_2105.08050/readme.md", "title": "Pay Attention to MLPs"}
+{"id": "20200116_reports/IndoorLayoutEstimation_antimon2.md", "title": "Indoor Layout Estimation by 2D LiDAR and Camera Fusion"}
+{"id": "20191219_reports/gim_1905.11786.md", "title": "Putting An End to End-to-End: Gradient-Isolated Learning of Representations"}
+{"id": "20180712_reports/waveGan.md", "title": "Synthesizing Audio with Generative Adversarial Networks"}
+{"id": "20230921_reports/swin_v1.md", "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"}
+{"id": "20220421_reports/sbp.md", "title": "Stochastic Backpropagation: A Memory Efficient Strategy for Training Video Models"}
+{"id": "20180712_reports/cuDNN.md", "title": "cuDNN: Efficient Primitives for Deep Learning"}
+{"id": "20201015_reports/stylegan2-ada/stylegan2-ada.md", "title": "Training Generative Adversarial Networks with Limited Data"}
+{"id": "20201119_reports/Imperfect_Human_Segmentation.md", "title": "Learning to Segment Human by Watching YouTube"}
+{"id": "20200521_reports/c_swm_1911.12247.md", "title": "Contrastive Learning of Structured World Models"}
+{"id": "20221215_reports/SWFormer_2210.07372.md", "title": "SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds"}
+{"id": "20220915_reports/latent_diffusion_2112.10752.md", "title": "High-Resolution Image Synthesis with Latent Diffusion Models"}
+{"id": "20240516_reports/multi_token_prediction.md", "title": "Better & Faster Large Language Models via Multi-token Prediction"}
+{"id": "20201015_reports/pointpillars.md", "title": "PointPillars: Fast Encoders for Object Detection from Point Clouds"}
+{"id": "20180712_reports/Recurrent_Autoregressive_Networks_for_Online_Multi-Object_Tracking/PITCHME.md", "title": "Recurrent Autoregressive Networks for Online Multi-Object Tracking"}
+{"id": "20220818_reports/int8.md", "title": "Is Integer Arithmetic Enough for Deep Learning Training?"}
+{"id": "20230518_reports/RLHF_1706.03741.md", "title": "Deep reinforcement learning from human preferences"}
+{"id": "20200820_reports/1909.01387_R2D3.md", "title": "Making Efficient Use ofDemonstrations to Solve Hard Exploration Problems"}
+{"id": "20190214_reports/Time Series.md", "title": "Transfer learning for time series classification"}
+{"id": "20180712_reports/Dank_Learning_Generating_Memes_Using_Deep_Neural_Networks.md", "title": "Dank Learning: Generating Memes Using Deep Neural Networks"}
+{"id": "20230420_reports/diffusion_classifier.md", "title": "Your Diffusion Model is Secretly a Zero-Shot Classifier"}
+{"id": "20181018_reports/ShuffleNetV2.md", "title": "ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design"}
+{"id": "20200220_reports/upper_boundin_object_detection.md", "title": "Empirical Upper Bound in Object Detection and More"}
+{"id": "20190314_reports/End-to-End_Open-Domain_Question_Answering_with_BERTserini_nharu1san.md", "title": "End-to-End Open-Domain Question Answering with BERTserini"}
+{"id": "20180517_reports/EnhanceWordRepresentation_nharu1san.md", "title": "Enhance word representation for out-of-vocabulary on Ubuntu dialogue corpus"}
+{"id": "20230119_reports/LGGNet_2105.02786.md", "title": "LGGNet: Learning from Local-Global-Graph Representations for Brain-Computer Interface"}
+{"id": "20240919_reports/AIResercher_2409.04109.md", "title": "Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers"}
+{"id": "20200220_reports/arxiv_2002.05709/readme.md", "title": "A Simple Framework for Contrastive Learning of Visual Representations"}
+{"id": "20181115_reports/pixel2mesh_1804.01654.md", "title": "Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images"}
+{"id": "20190418_reports/DocBERT_nharu1san.md", "title": "DocBERT: BERT for Document Classification"}
+{"id": "20191219_reports/arxiv_1912.04958/readme.md", "title": "Analyzing and Improving the Image Quality of StyleGAN"}
+{"id": "20211216_reports/ada_vit.md", "title": "AdaViT: Adaptive Tokens for Efficient Vision Transformer"}
+{"id": "20221020_reports/ToMe.md", "title": "Token Merging: Your ViT But Faster"}
+{"id": "20240822_reports/ImpossibleLM_2401.06416.md", "title": "Mission: Impossible Language Models"}
+{"id": "20190822_reports/Tracking_Emerges_by_Colorizing_Videos.md", "title": "Tracking Emerges by Colorizing Videos"}
+{"id": "20210916_reports/CODEX.md", "title": "TransReID: Evaluating Large Language Models Trained on Code"}
+{"id": "20230518_reports/video_diffusion_models.md", "title": "Video Diffusion Models"}
+{"id": "20190620_reports/Neural_Legal_Judgment_Prediction_in_English_nharu1san.md", "title": "Neural Legal Judgment Prediction in English"}
+{"id": "20191219_reports/openvslam.md", "title": "OpenVSLAM: A Versatile Visual SLAM Framework"}
+{"id": "20230119_reports/managing_popularity_bias_2019.md", "title": "Managing Popularity Bias in Recommender Systems with Personalized Re-ranking"}
+{"id": "20220217_reports/uniformer.md", "title": "UniFormer: Unifying Convolution and Self-attention for Visual Recognition"}
+{"id": "20191219_reports/1912.00167.md", "title": "IMPACT: IMPORTANCE WEIGHTED ASYNCHRONOUS ARCHITECTURES WITH CLIPPED TARGET NETWORKS"}
+{"id": "20190214_reports/naonet_1808.07233.md", "title": "Neural Architecture Optimization"}
+{"id": "20230615_reports/hiera.md", "title": "Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles"}
+{"id": "20241121_reports/AgentK_2411.03562.md", "title": "Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level"}
+{"id": "20191121_reports/BART.md", "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension"}
+{"id": "20200820_reports/phrase_click.md", "title": "PhraseClick: Toward Achieving FlexibleInteractive Segmentation by Phrase and Click"}
+{"id": "20210520_reports/swintransformer.md", "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"}
+{"id": "20220421_reports/hierarchical_perceiver_2202.10890.md", "title": "Hierarchical Perceiver"}
+{"id": "20230316_reports/TubeViT_2213.03229.md", "title": "Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning"}
+{"id": "20221215_reports/MOTRv2.md", "title": "MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors"}
+{"id": "20230420_reports/activation_survey.md", "title": "Activation Functions in Deep Learning: A Comprehensive Survey and Benchmark"}
+{"id": "20180412_reports/zero_shot_object_detection_1803.06049.md", "title": "\"Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts\""}
+{"id": "20200521_reports/ADGAN/ADGAN.md", "title": "Controllable Person Image Synthesis with Attribute-Decomposed GAN"}
+{"id": "20220217_reports/block_nerf_2202.05263.md", "title": "Block-NeRF: Scalable Large Scene Neural View Synthesis"}
+{"id": "20200917_reports/distilling_visual_priors.md", "title": "Distilling Visual Priors fromSelf-Supervised Learning"}
+{"id": "20181213_reports/Crowdsourcing Annotations for Visual Object Detection.md", "title": "Crowdsourcing Annotations for Visual Object Detection"}
+{"id": "20200618_reports/metalerners.md", "title": "Metalearners for estimating heterogeneous treatment effects using machine learning"}
+{"id": "20200618_reports/O-VITON.md", "title": "Image Based Virtual Try-on Network from Unpaired Data"}
+{"id": "20200220_reports/1806.06923.md", "title": "Implicit Quantile Networks for Distributional Reinforcement Learning"}
+{"id": "20230720_reports/vit.md", "title": "AN Image IS WORTH 16X16  ORDS: TRANSFORMERS FOR  MAGE RECOGNITION AT SCALE"}
+{"id": "20181115_reports/skipnet.md", "title": "SkipNet: Learning Dynamic Routing in Convolutional Networks"}
+{"id": "20180614_reports/ANovelChannelPruningMethod.md", "title": "A novel channel pruning method for deep neural network compression"}
+{"id": "20181213_reports/fused_gromov_wasserstein_1811.02834.md", "title": "Fused Gromov-Wasserstein distance for structured objects: theoretical foundations and mathematical properties"}
+{"id": "20220120_reports/dl-tcp.md", "title": "DL-TCP: Deep Learning-Based Transmission Control Protocol for Disaster 5G mmWave Networks"}
+{"id": "20240620_reports/３DSG-b.md", "title": "\"驚くほどキレイな三次元シーン復元、「3D Gaussian Splatting」を徹底的に解説する\""}
+{"id": "20210121_reports/arxiv_2011.10566v1/readme.md", "title": "Exploring Simple Siamese Representation Learning"}
+{"id": "20200521_reports/network_deconv.md", "title": "Network Deconvolution"}
+{"id": "20191121_reports/arxiv_1911.05722v2/readme.md", "title": "Momentum Contrast for Unsupervised Visual Representation Learning"}
+{"id": "20210218_reports/arxiv_2102.06171v1/readme.md", "title": "High-Performance Large-Scale Image Recognition Without Normalization"}
+{"id": "20190117_reports/20190117_takagi_face2face_paper.md", "title": "A face to face neural conversation model"}
+{"id": "20201015_reports/2005.05960.md", "title": "Planning to Explore via Self-Supervised World Models"}
+{"id": "20240516_reports/blip2.md", "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models"}
+{"id": "20210819_reports/softteacher_object_detection.md", "title": "End-to-End Semi-Supervised Object Detection with Soft Teacher"}
+{"id": "20240418_reports/mmstar_2403.20330.md", "title": "Are We on the Right Way for Evaluating Large Vision-Language Models?"}
+{"id": "20240215_reports/MambaFormer_2402.04248.md", "title": "Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks"}
+{"id": "20230921_reports/detzero.md", "title": "DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds"}
+{"id": "20231116_reports/EUREKA_2310.12931.md", "title": "Eureka: Human-Level Reward Design via Coding Large Language Models"}
+{"id": "20181213_reports/openreview_ByfPDyrYim/readme.md", "title": "Linear Backprop in non-linear networks openreview"}
+{"id": "20210218_reports/PCT_2012.09688.md", "title": "PCT: Point Cloud Transformer"}
+{"id": "20240822_reports/AIScientist_2408.06292.md", "title": "AI sientist"}
+{"id": "20180412_reports/StudentPerformancePrediction.md", "title": "Student performance prediction using data of multiple courses by recurrent neural network"}
+{"id": "20240718_reports/solo.md", "title": "A Single Transformer for Scalable Vision-Language Modeling"}
+{"id": "20210819_reports/arxiv_2107.11291/readme.md", "title": "Human Pose Regression with Residual Log-likelihood Estimation"}
+{"id": "20210916_reports/madness.md", "title": "Multiplying Matrices Without Multiplying"}
+{"id": "20191017_reports/equivariant_hamiltonian_flows_1909.13739.md", "title": "Equivariant Hamiltonian Flows"}
+{"id": "20180614_reports/Learning_monocular_visual_odometry_with_dense_3D_mapping_from_dense_3D_flow.md", "title": "Learning monocular visual odometry with dense 3D mapping from dense 3D flow"}
+{"id": "20180517_reports/surfaceInspection_Sakurai1.md", "title": "A Generic Deep-Learning-Based Approach"}
+{"id": "20190919_reports/arxiv_1906.05909/readme.md", "title": "Stand-Alone Self-Attention in Vision Models"}
+{"id": "20210520_reports/efficient_detr_2104.01319.md", "title": "Efficient DETR: Improving End-to-End Object Detector with Dense Prior"}
+{"id": "20230615_reports/focal_loss.md", "title": "Focal Loss for Dense Object Detection"}
+{"id": "20220519_reports/lms_as_kbs_survey_2204.06031.md", "title": "A Review on Language Models as Knowledge Bases"}
+{"id": "20241017_reports/UnSAM_2406.20081.md", "title": "Segment Anything without Supervision"}
+{"id": "20230216_reports/Toolformer_2302.04761.md", "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"}
+{"id": "20180614_reports/CyclicalLearningRates.md", "title": "Cyclical Learning Rates for Training Neural Networks"}
+{"id": "20241017_reports/DEGAS.md", "title": "DEGAS: Detailed Expressions on Full-Body Gaussian Avatars"}
+{"id": "20220120_reports/projected-gan/projected-gan.md", "title": "Projected GANs Converge Faster"}
+{"id": "20240718_reports/SAS.md", "title": "SUDDEN DROPS IN THE LOSS: SYNTAX ACQUISITION, PHASE TRANSITIONS, AND SIMPLICITY BIAS IN MLMS"}
+{"id": "20180614_reports/Attributes _DCGANs_yunishimura.md", "title": "Face Image Generation System using Attributes Information with DCGANs"}
+{"id": "20210819_reports/yolox.md", "title": "YOLOX: Exceeding YOLO Series in 2021"}
+{"id": "20190516_reports/InstanceSegmentation_antimon2.md", "title": "Semantic Instance Segmentation with a Discriminative Loss Function"}
+{"id": "20180614_reports/UniversalSentenceEncoder_nharu1san.md", "title": "Universal Sentence Encoder"}

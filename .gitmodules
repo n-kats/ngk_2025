@@ -1,0 +1,3 @@
+[submodule "vendor/surveys"]
+	path = vendor/surveys
+	url = git@github.com:mlnagoya/surveys.git
