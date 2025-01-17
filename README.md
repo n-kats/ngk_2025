@@ -1,5 +1,10 @@
 # NGK2025S ソースコード・データ
 
+## ライセンス
+
+* cluster_utils.py: GNU Affero General Public License v3.0
+* その他: MIT License
+
 ## 実行方法
 1. OpenAIのAPIキーを取得し、環境変数`OPENAI_API_KEY`にセットします。
 1. poetryをインストールします。
